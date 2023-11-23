@@ -1,0 +1,7 @@
+links:
+  - blank: false
+    title: Legal etc
+    links:
+      - blank: false
+        title: Legal another
+        url: https://tvbtn.netlify.app
