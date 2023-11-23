@@ -25,26 +25,26 @@ export const content = {
         description: "All places"
     },
     pages: {
-        label: "Pages",
-        label_singular: "Page",
-        description: "All pages",
+        label: "Sidor",
+        label_singular: "Sida",
+        description: "Alla sidor",
         meta: {
-            parent: "Parent page"
+            parent: "Överordnad sida"
         }
     },
     persons: {
-        label: "Persons",
+        label: "Personer",
         label_singular: "Person",
-        description: "All persons"
+        description: "Alla personer"
     },
     persons_statutes: {
-        label: "Statuts",
+        label: "Statutes",
         label_singular: "Statut",
-        description: "All status of persons"
+        description: "All statutes of persons"
     },
     posts: {
-        label: "News",
-        label_singular: "New",
+        label: "Inlägg",
+        label_singular: "Inlägg",
     },
     projects: {
         label: "Projects",
@@ -97,8 +97,8 @@ export const content = {
         description: "All categories of services",
     },
     tags: {
-        label: "Tags",
+        label: "Taggar",
         label_singular: "Tag",
-        description: "All tags of news"
+        description: "Alla inläggs taggar"
     },
 }
