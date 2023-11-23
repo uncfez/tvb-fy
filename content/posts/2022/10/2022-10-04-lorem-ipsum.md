@@ -5,7 +5,7 @@ date: 2022-10-04T12:42:14.430Z
 title: Lorem ipsum
 description: Curabitur scelerisque sollicitudin lobortis. Sed pharetra, massa eu
   varius egestas, metus nulla rutrum diam, et accumsan purus lacus vel ante.
-categories: Lorem ipsum
+categories:
 authors:
   - john-doe
 image:
