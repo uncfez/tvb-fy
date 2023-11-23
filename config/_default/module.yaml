@@ -8,3 +8,6 @@ imports:
 
 # CMS
 - path: github.com/hugolify/hugolify-netlify-cms
+
+#Example site
+- path: github.com/hugolify/hugolify-example-site

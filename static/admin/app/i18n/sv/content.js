@@ -5,9 +5,9 @@ export const content = {
         description: "All case studies"
     },
     categories: {
-        label: "Categories",
-        label_singular: "Category",
-        description: "All categories of news"
+        label: "Kategorier",
+        label_singular: "Kategori",
+        description: "Alla kategorier för inlägg"
     },
     expertises: {
         label: "Expertises",

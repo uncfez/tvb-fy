@@ -1,16 +1,16 @@
 export const config = {
-    label: "Config",
+    label: "Inställningar",
     files: {
-        primary: "Primär meny ",
-        secondary: "Secondary menu",
+        primary: "Huvudmeny ",
+        secondary: "Sekundär meny",
         legal: "Legal menu (notice, conditions…)",
-        social: "Menu social networks",
-        banner: "Informationsrutan högst upp på siten",
-        footer: "Information text at the bottom of the site",
+        social: "Meny sociala medier",
+        banner: "Informationsruta högst upp på siten",
+        footer: "Information text längst ned på siten",
         seo: {
             label: "SEO global",
             fields: {
-                title: "Name of site"
+                title: "Sitens namn"
             }
         },
         analytics: {
