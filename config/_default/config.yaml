@@ -1,6 +1,6 @@
 ## LANGUAGE
-defaultContentLanguage: en
-languageCode: en
+defaultContentLanguage: sv
+languageCode: sv
 
 ## ADVANCED
 build:

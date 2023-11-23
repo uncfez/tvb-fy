@@ -3,7 +3,12 @@
 #   title: Demo Hugolify
 #   weight: 2
 
-en:
-  languageName: English
-  title: Hugolify demo
+sv:
+  languageName: Svenska
+  title: Turf Västerbotten
   weight: 1
+
+# en:
+#   languageName: English
+#   title: Hugolify demo
+#   weight: 1
