@@ -2,7 +2,7 @@
 isIndex: true
 title: Hem
 hero:
-  surtitle: ""
+  surtitle: Surtitle
   title: Turf Västerbotten
   align: center
   text: Startades för några år sedan...
