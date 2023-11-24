@@ -14,9 +14,9 @@ hero:
     text: Vad är Turf?
     blank: true
 blocks:
-  - heading: Inlägg
+  - heading: 
     section: posts
-    titel: ""
+    titel: "Inlägg"
     text: ""
     background: false
     count: 10
