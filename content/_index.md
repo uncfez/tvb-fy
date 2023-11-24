@@ -4,9 +4,7 @@ title: Hem
 hero:
   title: Turf Västerbotten
   align: center
-  text: >-
-    Föreningen för turfare i Västerbotten
-
+  text: Startades för några år sedan...
   cta:
     url: https://turfvasterbotten.se
     text: Bli medlem
@@ -15,14 +13,16 @@ hero:
     url: https://turfvasterbotten.se
     text: Vad är Turf?
     blank: true
+  surtitle: Föreningen för turfare i Västerbotten
 blocks:
-  - type: latest
-    heading: "Inlägg"
-    surtitle: ""
+  - heading: Inlägg
+    section: posts
     titel: ""
+    surtitle: ""
     text: ""
-    section: ""
-    show more: true
     background: false
-    
+    count: 10
+    show_more: true
+    show more: true
+    type: latest
 ---
