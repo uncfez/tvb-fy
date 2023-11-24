@@ -1,8 +1,8 @@
 links:
-  - blank: false
-    title: Legal etc
+  - blank: true
+    title: Turf är ett mobilspel utvecklat i Sverige
     links:
       - blank: false
-        title: Legal another
+        title: Syns detta?
         url: https://tvbtn.netlify.app
-    url: https://tvbtn.netlify.app
+    url: https://turfvasterbotten.se
