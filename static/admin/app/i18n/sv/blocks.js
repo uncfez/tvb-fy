@@ -1,8 +1,8 @@
 export const blocks = {
     alert: "Alert",
     blocks: {
-        label: "Content blocs",
-        label_singular: "Content bloc",
+        label: "Content blocks",
+        label_singular: "Content block",
     },
     carousel: "Carousel",
     chart: "Chart (Pie, bar…)",
