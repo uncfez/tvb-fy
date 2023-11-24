@@ -10,6 +10,14 @@ github.com/hugolify/hugolify-theme-casestudies v1.0.10 h1:JNJUzR6k4DXsfmSH51Z0qj
 github.com/hugolify/hugolify-theme-casestudies v1.0.10/go.mod h1:qq89c1Emj7lKoWho23RA9X3rPq+8H96mfO8KI5Twr7A=
 github.com/hugolify/hugolify-theme-persons v1.3.6 h1:s9ZZMTSHZOyhklBF++LWutbQVsnCa6pJDBMzYxSkHO4=
 github.com/hugolify/hugolify-theme-persons v1.3.6/go.mod h1:LjjY/5pEDk2r3URTU8xS7Sango4D4K9ExU0+OaJwOUA=
+github.com/hugolify/hugolify-theme-persons-expertises v1.0.2 h1:Tc3yymD5hD4NkOIcBuVbMkqZRgJcEgEalmzS5FKeYds=
+github.com/hugolify/hugolify-theme-persons-expertises v1.0.2/go.mod h1:Uiu/W+wJTNoYf4sByJ0wh20OTzOiC740HEvpXQuI6oU=
+github.com/hugolify/hugolify-theme-persons-places v1.1.2 h1:FnLuDhKnV3mnz6hLKsRa6/HUDmQy3okniIWAt8trMAw=
+github.com/hugolify/hugolify-theme-persons-places v1.1.2/go.mod h1:TxpVc04ARzcb1+6iz+pUZ2tuq+gDSfaLWhDMuZDexX8=
+github.com/hugolify/hugolify-theme-persons-statutes v1.1.2 h1:l1UaXuqCwCIlLBT/QjpMA0LF8odkbcYsSeajJK7i3vY=
+github.com/hugolify/hugolify-theme-persons-statutes v1.1.2/go.mod h1:S+aQocqFtsLpYC+6t8IYGY95YHYvcPFovzVe61XEqMc=
+github.com/hugolify/hugolify-theme-places v1.1.2 h1:IOUG+tNTtexxozHZ5qDrWlEIZacU6eiTOaB0qEsOAaY=
+github.com/hugolify/hugolify-theme-places v1.1.2/go.mod h1:fuG0GddSsGiKFhmtUalHZQY3c6wFIth1G3bA1WJ5q4k=
 github.com/hugolify/hugolify-theme-posts v1.1.17 h1:vMKR2C7bgZOrE9lgJH4BCr+0jc4cRH9HNXXbQ2jHU8w=
 github.com/hugolify/hugolify-theme-posts v1.1.17/go.mod h1:kSsNH0SQ9TaUdpJ2AsOYfAQt4qiIv0ORGjC4l+XCoqc=
 github.com/hugolify/hugolify-theme-posts-authors v1.0.11 h1:nyQrVetNCtgKuQcvqFvh2zAefLVKhN62NiOdibmXGcM=
@@ -26,6 +34,8 @@ github.com/hugolify/hugolify-theme-projects-types v1.0.10 h1:PCYBfGpZKF+oJ/J1xa/
 github.com/hugolify/hugolify-theme-projects-types v1.0.10/go.mod h1:IFi4jmAY5oXSLTWyK0mcGUDoFzWtgTQB/bQ+gL23MTg=
 github.com/hugolify/hugolify-theme-publications v1.2.0 h1:1Ss0D1h/2mp7gC8ndTfoUZ8263Wthilq67ytevgKzBw=
 github.com/hugolify/hugolify-theme-publications v1.2.0/go.mod h1:9hR8/sdinGo6o4DJpZMTdP1I8XYwUUq585WmeU1zwH8=
+github.com/hugolify/hugolify-theme-publications-categories v1.0.3 h1:NM+pvbb5heaf5zOts6AYlniwop8KoDBQpjo9K/Xus8A=
+github.com/hugolify/hugolify-theme-publications-categories v1.0.3/go.mod h1:NX1zBK520EcoOqDbtg3EifmDxxhWZvrpQopo4QoeN5o=
 github.com/hugolify/hugolify-theme-publications-persons v1.1.2 h1:jwriBVKYNg/MZ0qFh93ZAYCd3x7QoEIyRpGHJaTgsdw=
 github.com/hugolify/hugolify-theme-publications-persons v1.1.2/go.mod h1:To+/GFhBybbw54E7FXfcU2C1hulhkKkB31YrNI3SSeM=
 github.com/twbs/bootstrap v5.3.1+incompatible h1:VZq/ulwa2CvsK7F9LFzkCVLzaCkTYOVyW5c3FBICUsM=

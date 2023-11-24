@@ -5,8 +5,8 @@ export const config = {
         secondary: "Sekundär meny",
         legal: "Legal menu (notice, conditions…)",
         social: "Meny sociala medier",
-        banner: "Informationsruta högst upp på siten",
-        footer: "Information text längst ned på siten",
+        banner: "Banner högst upp",
+        footer: "Footer längst ned",
         seo: {
             label: "SEO global",
             fields: {
