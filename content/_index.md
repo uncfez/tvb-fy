@@ -18,7 +18,6 @@ blocks:
   - heading: Inlägg
     section: posts
     titel: ""
-    surtitle: ""
     text: ""
     background: false
     count: 10
