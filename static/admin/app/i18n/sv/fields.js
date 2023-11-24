@@ -307,6 +307,7 @@ export const fields = {
         label: "Suffix",
         hint: "e.g.: %"
     },
+    surtitle: "Surtitle"
     tags: "Tags",
     target: "URL",
     text: "Text",
