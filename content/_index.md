@@ -13,7 +13,6 @@ hero:
     url: https://turfvasterbotten.se
     text: Vad är Turf?
     blank: true
-  surtitle: ""
 blocks:
   - heading: Inlägg
     section: posts
