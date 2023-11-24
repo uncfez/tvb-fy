@@ -16,7 +16,7 @@ hero:
     blank: false
 blocks:
   - heading: 
-    section: news
+    section: posts
     titel: "Inlägg"
     text: ""
     background: false
