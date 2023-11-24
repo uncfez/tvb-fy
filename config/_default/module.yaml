@@ -4,7 +4,7 @@ imports:
 # -> Hugolify content types and taxonomies available https://github.com/Hugolify/hugolify-template/wiki/Content-sections
 
 # Theme
-- path: github.com/hugolify/hugolify-theme
+- path: github.com/hugolify/hugolify-theme-2
 
 # CMS
 - path: github.com/hugolify/hugolify-netlify-cms
