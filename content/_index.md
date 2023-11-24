@@ -2,10 +2,10 @@
 isIndex: true
 title: Hem
 hero:
-  surtitle: Surtitle
+  surtitle: Föreningen
   title: Turf Västerbotten
   align: center
-  text: Startades för några år sedan...
+  text: 
   cta:
     url: https://turfvasterbotten.se
     text: Bli medlem
@@ -13,10 +13,10 @@ hero:
   cta_second:
     url: https://turfvasterbotten.se
     text: Vad är Turf?
-    blank: true
+    blank: false
 blocks:
   - heading: 
-    section: posts
+    section: news
     titel: "Inlägg"
     text: ""
     background: false
