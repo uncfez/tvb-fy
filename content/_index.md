@@ -1,6 +1,6 @@
 ---
 isIndex: true
-title: 
+title: Hem
 hero:
   surtitle: Välkommen till 
   title: Turf Västerbotten
@@ -15,18 +15,25 @@ hero:
     text: Vad är Turf?
     blank: false
 blocks:
-  - type: title
-    heading:
-    surtitle: ""
-    title: ""
-    background: false
   - type: latest
-    heading: ""
-    surtitle: "surtitle"
-    title: "Inlägg"
-    text: "Text..."
-    section: posts
-    count: 1
+    count: 9
     show_more: true
     background: false
+    section: posts
+    heading:
+      title: Latest posts
+  - type: latest
+    count: 3
+    show_more: true
+    background: false
+    section: projects
+    heading:
+      title: Latest projects
+  - type: latest
+    count: 3
+    show_more: true
+    background: false
+    section: publications
+    heading:
+      title: Latest publications
 ---
